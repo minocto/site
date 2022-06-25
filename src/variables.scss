@@ -1,0 +1,12 @@
+$col-fg: #f6f6f6;
+$col-fg-faded: #f6f6f6b0;
+
+$col-bg: #30293b;
+$col-bg-light: lighten($col-bg, 4%);
+$col-bg-lighter: lighten($col-bg, 8%);
+$col-bg-lightest: lighten($col-bg, 12%);
+$col-bg-dark: darken($col-bg, 4%);
+$col-bg-darker: darken($col-bg, 8%);
+$col-bg-darkest: darken($col-bg, 16%);
+
+$nav-height: 3rem;
