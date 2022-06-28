@@ -1,10 +1,9 @@
 <script>
   import Navbutton from "./navbutton.svelte";
-  import NavButton from "./navbutton.svelte";
 </script>
 
 <nav>
-  <img src="/minocto.svg" alt="Minocto logo" />
+  <img src="/logo.svg" alt="Minocto logo" />
   <h1>Minocto</h1>
   <div class="grow" />
   <Navbutton name="Home" loc="/" />
